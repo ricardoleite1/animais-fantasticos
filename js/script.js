@@ -33,7 +33,6 @@ const tooltip = new Tooltip('[data-tooltip');
 tooltip.init();
 
 initAnimacaoScroll();
-initTooltip();
 initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
